@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyXMLParser</string>
+    <string name="xml_error">XMLエラー</string>
+    <string name="connection_error">接続エラー</string>
+    <string name="page_title">記事タイトル</string>
+    <string name="updated">更新日時</string>
+
+</resources>
